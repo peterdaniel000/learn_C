@@ -9,6 +9,6 @@ int main()
     printf("hello, world \n");
     printf("please give the input \n");
     scanf("%d",&a);
-    printf("value is %d", a);
+    printf("value is %d \n", a);
     return 0;
 }
