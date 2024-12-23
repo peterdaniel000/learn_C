@@ -1,4 +1,4 @@
-//To learn the arithematic operation of c programming language
+//To learn the Arithematic operation of c programming language
 //Date: 22-12-2024
 //Author: Peter Daniel
 
